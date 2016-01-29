@@ -1,0 +1,27 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "An editable theme layout that leverages twitter's api ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ctodmia/twitterskins.git"
+  },
+  "keywords": [
+    "nodejs",
+    "backbonejs",
+    "reactjs",
+    "twitter",
+    "api"
+  ],
+  "author": "Carine Todmia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ctodmia/twitterskins/issues"
+  },
+  "homepage": "https://github.com/ctodmia/twitterskins#readme"
+}
