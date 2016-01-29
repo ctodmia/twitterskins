@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/ctodmia/twitterskins/issues"
   },
-  "homepage": "https://github.com/ctodmia/twitterskins#readme"
+  "homepage": "https://github.com/ctodmia/twitterskins#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
 }
